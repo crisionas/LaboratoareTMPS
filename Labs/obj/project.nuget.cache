@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KqV97vNdATJE2ZE1TfkoFlWoIXzMIiroravS9iqd3sCfS3MPStjVxUAJPIlQ5Y1QesX0fecDeUy0x9aei80Llw==",
+  "success": true,
+  "projectFilePath": "E:\\Visual Studio Projects\\Labs\\Labs\\Labs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\grpc.core\\2.27.0\\grpc.core.2.27.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\grpc.core.api\\2.27.0\\grpc.core.api.2.27.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
